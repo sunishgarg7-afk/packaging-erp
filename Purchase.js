@@ -1,0 +1,1 @@
+import React from 'react';function Purchase(){return(<h2>Purchase Module</h2>);}export default Purchase;

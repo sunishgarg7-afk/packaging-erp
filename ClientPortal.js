@@ -1,0 +1,1 @@
+import React from 'react';function ClientPortal(){return(<h2>Client Portal</h2>);}export default ClientPortal;
